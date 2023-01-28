@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balloon - Google Arama</folder>
+	<filename>balloon_119710510.jpg</filename>
+	<path>C:\Users\imran\Desktop\TFLiteObjectDetection\Test\images\balloon - Google Arama\balloon_119710510.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>balon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>25</ymin>
+			<xmax>602</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

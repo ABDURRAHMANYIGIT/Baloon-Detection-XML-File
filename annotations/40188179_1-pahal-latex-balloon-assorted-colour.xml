@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balloon - Google Arama</folder>
+	<filename>40188179_1-pahal-latex-balloon-assorted-colour.jpg</filename>
+	<path>C:\Users\imran\Desktop\TFLiteObjectDetection\Test\images\balloon - Google Arama\40188179_1-pahal-latex-balloon-assorted-colour.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>balon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>22</ymin>
+			<xmax>856</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+</annotation>

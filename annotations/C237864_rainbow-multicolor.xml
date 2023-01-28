@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balloon - Google Arama</folder>
+	<filename>C237864_rainbow-multicolor.jpg</filename>
+	<path>C:\Users\imran\Desktop\TFLiteObjectDetection\Test\images\balloon - Google Arama\C237864_rainbow-multicolor.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>872</width>
+		<height>872</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>balon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>2</ymin>
+			<xmax>741</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

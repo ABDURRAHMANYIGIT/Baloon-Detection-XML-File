@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balloon - Google Arama</folder>
+	<filename>Metallic_Gold_Latex_Balloons_x_10_x_450_fd08dbd5-64b9-408a-a341-9e5a7f432014.jpg</filename>
+	<path>C:\Users\imran\Desktop\TFLiteObjectDetection\Test\images\balloon - Google Arama\Metallic_Gold_Latex_Balloons_x_10_x_450_fd08dbd5-64b9-408a-a341-9e5a7f432014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>balon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>11</ymin>
+			<xmax>417</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
